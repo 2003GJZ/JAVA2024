@@ -1,0 +1,9 @@
+{
+
+    "max":12,
+    "core":2,
+    "keepAlive":60,
+    "queue":1000,
+    "unit":"ms"
+
+}

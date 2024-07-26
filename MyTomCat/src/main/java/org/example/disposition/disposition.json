@@ -1,0 +1,15 @@
+{
+  "filter": {
+    "/": "xxx",
+    "/login": "xxx"
+  },
+  "disposition": "xxx",
+  "path": {
+    "/login": "org/example/pagemethod/Login",
+    "/not": "org/example/pagemethod/Not"
+  },
+  "reveal": {
+    "/login": "src/main/java/org/example/page/login.html",
+    "/not": "src/main/java/org/example/page/not.html"
+  }
+}
